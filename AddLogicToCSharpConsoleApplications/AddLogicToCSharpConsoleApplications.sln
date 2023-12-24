@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ControlVariableScopeAndLogicUsingCodeBlocksInCSharp", "ControlVariableScopeAndLogicUsingCodeBlocksInCSharp", "{A7FFB37D-C4A9-4DE1-9E5B-E403FDCF93DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course", "ControlVariableScopeAndLogicUsingCodeBlocksInCSharp\Course\Course.csproj", "{924D1DFF-213E-479A-8C3C-6818AABE410D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EvaluateBooleanExpressionsToMakeDecisionsInCSharp", "EvaluateBooleanExpressionsToMakeDecisionsInCSharp", "{454077EB-5E98-4B4A-B751-80E6A5385377}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course", "EvaluateBooleanExpressionsToMakeDecisionsInCSharp\Course\Course.csproj", "{80CEE649-C76B-4DAC-9AAC-E3B8A69FED45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{924D1DFF-213E-479A-8C3C-6818AABE410D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{924D1DFF-213E-479A-8C3C-6818AABE410D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{924D1DFF-213E-479A-8C3C-6818AABE410D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{924D1DFF-213E-479A-8C3C-6818AABE410D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80CEE649-C76B-4DAC-9AAC-E3B8A69FED45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CEE649-C76B-4DAC-9AAC-E3B8A69FED45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80CEE649-C76B-4DAC-9AAC-E3B8A69FED45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80CEE649-C76B-4DAC-9AAC-E3B8A69FED45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{924D1DFF-213E-479A-8C3C-6818AABE410D} = {A7FFB37D-C4A9-4DE1-9E5B-E403FDCF93DD}
+		{80CEE649-C76B-4DAC-9AAC-E3B8A69FED45} = {454077EB-5E98-4B4A-B751-80E6A5385377}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12C9FF5C-F908-4529-AA5E-66E08372D405}
+	EndGlobalSection
+EndGlobal
