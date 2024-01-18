@@ -81,4 +81,4 @@ comparisonMessage += newProduct.PadRight(20) + ($"{newReturn*100:N2} %").PadRigh
 
 Console.WriteLine(comparisonMessage);
 
-Console.ReadLine();
+Console.ReadLine()
