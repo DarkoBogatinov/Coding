@@ -54,8 +54,8 @@ for (int i = 0; loanAmount > 0; i++)
     loanAmount -= paymentPerMonth;
     if (i == 35)
     {
-        interestRate += 0.0022m;
-        paymentPerMonth = 6338;
+        interestRate = 0.0856m;
+        paymentPerMonth = 5909+1000;
     }
         Console.WriteLine($"{i + 1}\t\t | {loanAmount:N2}\t\t | {towardsLoan:N2}\t\t | {currentMonthInterest:N2}\t\t | {interestRateSum:N2}");
 }
